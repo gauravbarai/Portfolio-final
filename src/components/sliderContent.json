@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Games and Documents",
+        "games": [
+            {
+                "title": "Temple of Causality",
+                "text1": "Puzzle | GameEon Studios",
+                "text2": "",
+                "description": "Embark on a transcendent 3D puzzle adventure in the Temple of Causality, where every move reveals the intricate dance of cause and effect. Manipulate blocks adorned with ancient symbols, each linked by the laws of causality, as you unravel the secrets of diverse religious and philosophical traditions. Immerse yourself in a visually stunning world, where the temple's architecture and ethereal atmosphere draw you deeper into its enigmatic embrace. Are you ready to navigate the threads of destiny?",
+                "role": " Game Lead",
+                "bg": "/ToC/main1.jpg",
+                "gddLink": "https://docs.google.com/document/d/1RmE1SxdQLbLxYv3wbYfegaG2-jheIjZ0gn2fPZSr7Xk/edit?usp=sharing",
+                "websiteLink": "csbg.jpg",
+                "downloadLink": "csbg.jpg",
+                "images": [
+                    "/ToC/main1.jpg",
+                    "/ToC/SS1.png"
+                ]
+            },
+            {
+                "title": "Mumbai Gullies",
+                "text1": "Open World | GameEon Studios",
+                "text2": "",
+                "description": "Mumbai Gullies immerses you in the dynamic contrasts of Mumbai, from towering skyscrapers to sprawling slums, unveiling a city of hidden depths. Engage with three eras, an action-packed storyline, and an expansive open world to explore every inch of Mumbai. This third-person adventure lets you drive, interact, shop, and even trade on the bustling stock exchange. Navigate a compelling narrative with a resilient protagonist who has climbed from sacrifice to power, dominating local gullies and seizing control of the city. Encounter a diverse cast of criminals and power players, shaping your destiny in the heart of Mumbai. Come, dive into the essence of Mumbai city in Mumbai Gullies.",
+                "role": " Associate Game Designer",
+                "bg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1569890/ss_bde07cfd8db8068e5680c392e7b9e8bbcdcdecff.600x338.jpg?t=1615441457",
+                "gddLink": "csbg.jpg",
+                "websiteLink": "https://mumbaigullies.com/",
+                "downloadLink": "https://store.steampowered.com/app/1569890/Mumbai_Gullies/",
+                "images": [
+                    "https://www.youtube.com/embed/db3GFMWJdS0?si=xfTKXPSsVZYt7dwZ",
+                    "https://cdn.cloudflare.steamstatic.com/steam/apps/1569890/ss_b2d44d98ca1c5fc5801ec44324c02a4ddd7b471e.600x338.jpg?t=1615441457",
+                    "https://cdn.cloudflare.steamstatic.com/steam/apps/1569890/ss_bde07cfd8db8068e5680c392e7b9e8bbcdcdecff.600x338.jpg?t=1615441457",
+                    "https://cdn.cloudflare.steamstatic.com/steam/apps/1569890/ss_b286c5060cc7826fb3374c6f4bfef06805c95416.600x338.jpg?t=1615441457"
+                ]
+            },
+            {
+                "title": "Rebound",
+                "text1": "Physics Puzzle | Personal Project",
+                "text2": "",
+                "description": "Embark on a captivating journey as a ball lands amidst the enigmatic Ancient Ruins, seeking your guidance to reach the ultimate destination. Engage in an exhilarating quest, collecting orbs and unraveling the mysteries of this sacred temple. Face challenges, from puzzles to heart-pounding trials, pushing your abilities to the limit. Use ingenious techniques, bouncing off walls, and teleporting through portals, while evading burst explosions. Fear not, strategically placed checkpoints ensure uninterrupted progress. Your goal? To triumphantly reach the coveted finish line. And that's just the beginning!",
+                "role": " Designer and Game Lead",
+                "bg": "https://img.itch.zone/aW1nLzcxNjc1NDQucG5n/original/w4N%2Bas.png",
+                "gddLink": "https://docs.google.com/document/d/17eT9rrbtka7XyAoBHfIp_fawB6DPlLJs/edit?usp=sharing&ouid=109240534661152025010&rtpof=true&sd=true",
+                "websiteLink": "https://single-mark-desk.itch.io/rebound",
+                "downloadLink": "https://single-mark-desk.itch.io/rebound",
+                "images": [
+                    "https://www.youtube.com/embed/TaoZuNrTU3g?si=pQlUyutO-bPZFmg0",
+                    "https://img.itch.zone/aW1hZ2UvMTIyODAzNy83MTY3NTA5LnBuZw==/347x500/BU3OD8.png",
+                    "https://img.itch.zone/aW1hZ2UvMTIyODAzNy83MTY3NTExLnBuZw==/347x500/uS%2F2hs.png",
+                    "https://img.itch.zone/aW1hZ2UvMTIyODAzNy83MTY3NTA5LnBuZw==/347x500/BU3OD8.png"
+                ]
+            },
+            {
+                "bg": "/assets/videob.gif",
+                "data": [
+                    {
+                        "link": "https://docs.google.com/document/d/1K_rj87Fvz6Bd2hc1yB-Ji1nzfyZgyTgEVisZfqN_JG8/edit?usp=sharing",
+                        "img": "/Documents/Bloom Quest.png"
+                    },
+                    {
+                        "link": "https://drive.google.com/file/d/1T1BkjMwChjdzpRcNgiI2X6coEQpffo7Q/view?usp=drive_link",
+                        "img": "/Documents/Indieverse.png"
+                    },
+                    {
+                        "link": "https://docs.google.com/document/d/1KAMAhC7paq3_TGMajhYZV91vg_zhvEfJAQBODFaSs7Y/edit?usp=drive_link",
+                        "img": "/Documents/ThylaSynth.png"
+                    },
+                    {
+                        "link": "https://docs.google.com/document/d/1kz5EzkkjSLDbfzjwzN4o_0x35JI1XE5vHZhFbV9eYqA/edit?usp=sharing",
+                        "img": "/Documents/SnakeWays.png"
+                    }
+                ]
+            }
+        ]
+    }
+]
