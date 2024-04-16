@@ -10,11 +10,13 @@
                 "role": " Game Lead",
                 "bg": "/ToC/main1.jpg",
                 "gddLink": "https://docs.google.com/document/d/1RmE1SxdQLbLxYv3wbYfegaG2-jheIjZ0gn2fPZSr7Xk/edit?usp=sharing",
-                "websiteLink": "csbg.jpg",
-                "downloadLink": "csbg.jpg",
+                "websiteLink": "https://store.steampowered.com/app/2677140/Temple_of_Causality/",
+                "downloadLink": "https://store.steampowered.com/app/2677140/Temple_of_Causality/",
                 "images": [
-                    "/ToC/main1.jpg",
-                    "/ToC/SS1.png"
+                    "https://www.youtube.com/embed/h5vOfZX2vWo",
+                    "https://cdn.akamai.steamstatic.com/steam/apps/2677140/ss_138024955bab436608a4dc09b59051637b8fcc3a.600x338.jpg?t=1708760111",
+                    "https://cdn.akamai.steamstatic.com/steam/apps/2677140/ss_57084746776eb5653ef8857ebed87b539b9f026b.600x338.jpg?t=1708760111",
+                    "https://cdn.akamai.steamstatic.com/steam/apps/2677140/ss_2aa010889deeddb6e1eba0469b875e72228b3454.600x338.jpg?t=1708760111"
                 ]
             },
             {
