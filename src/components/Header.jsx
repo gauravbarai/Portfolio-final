@@ -26,7 +26,7 @@ const Header = () => {
     }, []);
 
     const handleDownloadClick = () => {
-        const fileUrl = '../src/assets/Resume2024.pdf';
+        const fileUrl = 'https://drive.google.com/file/d/1zXQh9X5MrdHf3VZr5ieniCzXquN-8OHQ/view?usp=sharing';
         const anchor = document.createElement('a');
         anchor.href = fileUrl;
         anchor.target = '_blank';
