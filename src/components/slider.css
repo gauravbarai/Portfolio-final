@@ -181,9 +181,9 @@
     min-height: 300px;
 }
 .docs{
-    width: 22%;
+    width: 25%;
     margin: 25px 1.25%;
-    height: 50%;
+    height: 40%;
     border-radius: 25px 0px 25px 0px;
     background-color: rgb(170, 165, 165);
     z-index: 1;
