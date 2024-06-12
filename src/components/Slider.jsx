@@ -168,7 +168,8 @@ const Slider = () => {
                                         <b>My Role : </b>
                                         <span>{outerSlide.role}</span>
                                     </p>
-                                    <p>{outerSlide.description}</p>
+                                    
+                                    <p dangerouslySetInnerHTML={{ __html: outerSlide.description }}></p>
                                     <a href={outerSlide.gddLink}><button>GDD</button></a>
                                     <a href={outerSlide.websiteLink}> <button>Website</button></a>
                                     <a href={outerSlide.downloadLink}> <button>Download</button></a>
