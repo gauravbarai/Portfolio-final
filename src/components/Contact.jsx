@@ -75,7 +75,7 @@ const Contact = () => {
 
                 </div>
             </div>
-            <p>©2023 Designed by Gaurav Barai | Developed by <a href="https://www.fiverr.com/nitishrana852">Nitish Rana</a></p>
+            <p>©2024 Designed by Gaurav Barai | Developed by <a href="https://www.fiverr.com/nitishrana852">Nitish Rana</a></p>
         </div>
     )
 }
