@@ -2,6 +2,12 @@ import React, { useState, useEffect } from 'react';
 import image from "../assets/Image.png";
 import "./header.css";
 
+let blinking_text = document.getElementById('blink_effect');
+        setInterval(function() {
+            blinking_text.style.display = (blinking_text.style.display == 'none' ? '' : 'none')
+        }, 500);
+ 
+
 const Header = () => {
     const [typedText, setTypedText] = useState('');
     const headerText = "Gaurav Game Designer [GGD]";
@@ -39,7 +45,7 @@ const Header = () => {
         <div className='header'>
             <h1>GAURAV BARAI</h1>
             <div className="content">
-                <h2>{typedText}_</h2>
+                <h2>{typedText}<span id="blink_effect">_</span></h2>
                 
                 <p className="fade-swipe-animation" >
                     <font size="4">Hey there! I'm Gaurav, a game designer immersed in PC and console gaming. My skills are ever-evolving, drawing inspiration from psychology, philosophy, science, and the mysteries of extraterrestrial realms. Always at the forefront of industry trends, my ultimate goal is to create my own gaming studio.</font>
@@ -59,5 +65,9 @@ const Header = () => {
         </div>
     );
 };
+
+
+     
+
 
 export default Header;
