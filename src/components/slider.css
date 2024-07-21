@@ -134,14 +134,14 @@
   border-radius: 100%;
 }
   .pagination-square0{
-    background: url(/src/assets/tocicon.png);
+    background: url(https://pbs.twimg.com/profile_images/1690430680772030464/H9Lr-hjj_400x400.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-origin: border-box;
     background-position: center;
   }
   .pagination-square1{
-    background: url(https://mumbaigullies.com/wp-content/uploads/2021/01/mg-logo.png);
+    background: url(/src/assets/tocicon.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-origin: border-box;
