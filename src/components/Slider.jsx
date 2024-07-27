@@ -59,7 +59,7 @@ const Slider = () => {
 
     const outerSlide = sliderContent[0].games[activeSlideIndex];
     let innerSlideData = [];
-    if (activeSlideIndex === 3) {
+    if (activeSlideIndex === 4) {
         innerSlideData = outerSlide.data;
     } else {
         innerSlideData = outerSlide.images[activeInnerSlideIndex];
@@ -80,7 +80,7 @@ const Slider = () => {
             <div className="pagination">
                 {sliderContent[0].games.map((_, index) => (
                     <div key={index}>
-                        {index === 3 ? (
+                        {index === 4 ? (
                             <div className='slideindex'>
                                 <div className='line'></div>
                                 <div
@@ -107,7 +107,7 @@ const Slider = () => {
             <div className="slides-container">
 
                 {
-                    activeSlideIndex == 3
+                    activeSlideIndex == 4
 
                         ? <div className="slide">
                             <div className="docsDiv">
@@ -170,7 +170,7 @@ const Slider = () => {
                                     </p>
                                     
                                     <p dangerouslySetInnerHTML={{ __html: outerSlide.description }}></p>
-                                    <a href={outerSlide.gddLink}><button>GDD</button></a>
+                                    <a href={outerSlide.gddLink}><button>GDD(s)</button></a>
                                     <a href={outerSlide.websiteLink}> <button>Website</button></a>
                                     <a href={outerSlide.downloadLink}> <button>Download</button></a>
                                 </div>
