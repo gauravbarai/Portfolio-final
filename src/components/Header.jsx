@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import image from "../assets/Image.png";
 import "./header.css";
+import sslider from './Slider';
 
 
 
@@ -58,6 +59,8 @@ const Header = () => {
                         <button id='btn2' className='swipe-fade-down-animation' onClick={() => scrollToSection('#contact')}>Contact</button>
                         <button id='btn3' className='swipe-fade-down-animation' onClick={handleDownloadClick}>Resume</button>
                     </div>
+                    
+                    <p></p><p> Please Click on the Last Icon in the games section to look at Additional Documents</p>
                 </div>
             </div>
             <div className="image">

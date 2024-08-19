@@ -14,7 +14,7 @@
                 "websiteLink": "https://mumbaigullies.com/",
                 "downloadLink": "https://store.steampowered.com/app/1569890/Mumbai_Gullies/",
                 "images": [
-                    "https://www.youtube.com/embed/MN8EG9-10uk?si=E-GO2tI32KZUX_24",
+                    "https://www.youtube.com/embed/MN8EG9-10uk?rel=0",
                     "https://cdn.cloudflare.steamstatic.com/steam/apps/1569890/ss_b2d44d98ca1c5fc5801ec44324c02a4ddd7b471e.600x338.jpg?t=1615441457",
                     "https://cdn.cloudflare.steamstatic.com/steam/apps/1569890/ss_bde07cfd8db8068e5680c392e7b9e8bbcdcdecff.600x338.jpg?t=1615441457",
                     "https://cdn.cloudflare.steamstatic.com/steam/apps/1569890/ss_b286c5060cc7826fb3374c6f4bfef06805c95416.600x338.jpg?t=1615441457"
@@ -31,7 +31,7 @@
                 "websiteLink": "https://store.steampowered.com/app/2677140/Temple_of_Causality/",
                 "downloadLink": "https://store.steampowered.com/app/2677140/Temple_of_Causality/",
                 "images": [
-                    "https://www.youtube.com/embed/h5vOfZX2vWo",
+                    "https://www.youtube.com/embed/h5vOfZX2vWo?rel=0",
                     "https://cdn.akamai.steamstatic.com/steam/apps/2677140/ss_138024955bab436608a4dc09b59051637b8fcc3a.600x338.jpg?t=1708760111",
                     "https://cdn.akamai.steamstatic.com/steam/apps/2677140/ss_57084746776eb5653ef8857ebed87b539b9f026b.600x338.jpg?t=1708760111",
                     "https://cdn.akamai.steamstatic.com/steam/apps/2677140/ss_2aa010889deeddb6e1eba0469b875e72228b3454.600x338.jpg?t=1708760111"
@@ -41,14 +41,14 @@
                 "title": "Style Diaries",
                 "text1": "Fashion Dressup - Casual | Mobile | Gamestacy",
                 "text2": "",
-                "description": "</em><ul> <li>Designed the Dresses Catalog System including item tagging and rating system, drawing insights from competitor games like <a href=\"https://www.ea.com/games/covet-fashion\" target=\"_blank\">Covet Fashion</a> and <a href=\"https://play.google.com/store/apps/details?id=com.cocoplay.fashion.style\" target=\"_blank\">Super Stylist</a>.</li> <li>Collaborated with a 2D Artist to create catalog content.</li> <li>Designed various features such as <b>OOTD Fashion Battles</b> and <b>Multiplayer Voting System</b>.</li><li>Designed <b>Nail Styling Mini-Game</b> and <b>Eye Makeup Minigame</b> by analyzing <a href=\"https://play.google.com/store/apps/details?id=com.cocoplay.fashion.style\" target=\"_blank\">Super Stylist</a>.</li><li>Developed the Tutorial and First Time User Experience in partnership with a UX Designer.</li><li>Designed Daily Tasks, Reward System, and Player Progression under the guidance of <a href=\"https://www.linkedin.com/in/angelo-lobo/\" target=\"_blank\">Angelo Lobo</a> (X-Director, Zynga).</li> <li>Created the Story and Choices System</a> by studying similar games such as <a href=\"https://www.glu.com/games/kim-kardashian-hollywood/\" target=\"_blank\">Kim Kardashian: Hollywood</a> and  <a href=\"https://britney.en.aptoide.com/app\" target=\"_blank\">Britney Spears: American Dream</a>.</li> <li>Authored the Game Design Document (GDD) & designed flow for integrating Mini-games.</li><li>Enhanced existing game mechanics with the UI/UX Designer for a Meme Game, Food Cooking Game, Selfie Game, and Travel Game (not integrated into the final product).</li> </ul><br><b>About Game:</b> Style Diaries is a super stylist social media fashion role-playing dress-up game that gives you the power to become the most influential influencer in the world.<br><em>Note: This Game was cancelled.",
+                "description": "</em><ul> <li>Designed the Dresses Catalog System including item tagging and rating system, drawing insights from competitor games like <a href=\"https://www.ea.com/games/covet-fashion\" target=\"_blank\">Covet Fashion</a> and <a href=\"https://play.google.com/store/apps/details?id=com.cocoplay.fashion.style\" target=\"_blank\">Super Stylist</a>.</li> <li>Collaborated with a 2D Artist to create catalog content.</li> <li>Designed various features such as <b>OOTD Fashion Battles</b> and <b>Multiplayer Voting System</b>.</li><li>Designed <b>Nail Styling Mini-Game</b> and <b>Eye Makeup Minigame</b> by analyzing <a href=\"https://play.google.com/store/apps/details?id=com.cocoplay.fashion.style\" target=\"_blank\">Super Stylist</a>.</li><li>Developed the Tutorial and First Time User Experience in partnership with a UX Designer.</li><li>Designed Daily Tasks, Reward System, and Player Progression under the guidance of <a href=\"https://www.linkedin.com/in/angelo-lobo/\" target=\"_blank\">Angelo Lobo</a> (X-Director, Zynga).</li> <li>Created the Story and Choices System</a> by studying similar games such as <a href=\"https://www.glu.com/games/kim-kardashian-hollywood/\" target=\"_blank\">Kim Kardashian: Hollywood</a> and  <a href=\"https://britney.en.aptoide.com/app\" target=\"_blank\">Britney Spears: American Dream</a>.</li> <li>Authored the Game Design Document (GDD) & designed flow for integrating Mini-games.</li><li>Enhanced existing game mechanics with the UI/UX Designer for a Meme Game, Food Cooking Game, Selfie Game, and Travel Game (not integrated into the final product).</li> </ul><br><b>About Game:</b> Style Diaries is a super stylist social media fashion role-playing dress-up game that gives you the power to become the most influential influencer in the world.<br><em>Note: This Game was Discontinued.",
                 "role": "Game Designer",
                 "bg": "/stylediaries/bg.png",
                 "gddLink": "csbg.jpg",
                 "websiteLink": "https://web.archive.org/web/20240721174240/https://www.gamestacy.com/influenzer",
                 "downloadLink": "https://drive.google.com/file/d/1SDQ3jsyTuWe3n2iTa1PAj7LJDgs_BfWY/view?usp=sharing",
                 "images": [
-                    "https://www.youtube.com/embed/rioU43PNApg",
+                    "https://www.youtube.com/embed/rioU43PNApg?rel=0",
                     "/stylediaries/screen-0.png",
                     "/stylediaries/screen-1.png",
                     "/stylediaries/screen-2.png"                   
@@ -65,7 +65,7 @@
                 "websiteLink": "https://play.google.com/store/apps/dev?id=6810998305006272415",
                 "downloadLink": "https://play.google.com/store/apps/dev?id=6810998305006272415",
                 "images": [
-                    "https://www.youtube.com/embed/oyuuM3_0YAI?si=3NJXQW2YD7HdBL_o"                    
+                    "https://www.youtube.com/embed/oyuuM3_0YAI?rel=0"                    
                 ]
             },
             {
@@ -79,7 +79,7 @@
                 "websiteLink": "https://single-mark-desk.itch.io/rebound",
                 "downloadLink": "https://single-mark-desk.itch.io/rebound",
                 "images": [
-                    "https://www.youtube.com/embed/TaoZuNrTU3g?si=pQlUyutO-bPZFmg0",
+                    "https://www.youtube.com/embed/TaoZuNrTU3g?rel=0",
                     "https://img.itch.zone/aW1hZ2UvMTIyODAzNy83MTY3NTA5LnBuZw==/347x500/BU3OD8.png",
                     "https://img.itch.zone/aW1hZ2UvMTIyODAzNy83MTY3NTExLnBuZw==/347x500/uS%2F2hs.png",
                     "https://img.itch.zone/aW1hZ2UvMTIyODAzNy83MTY3NTA5LnBuZw==/347x500/BU3OD8.png"
@@ -93,6 +93,10 @@
                     {
                         "link": "https://docs.google.com/document/d/1rrxW4G79I9mq3ku3T_n-Emicz-KxS8OCO3pLheCSYao/edit?usp=sharing",
                         "img": "/Documents/DS_TLC.png"
+                    },
+                    {
+                        "link": "https://drive.google.com/drive/folders/1_-fDA4gSfbEhvLXipmb93k0-tXQCQLG4?usp=sharing",
+                        "img": "/Documents/g2w.png"
                     },
                     {
                         "link": "https://docs.google.com/document/d/1KsW0-tzN7BnSDW-j19L2pdd3rjsDf2HhtAlXc54HwZU/edit?usp=sharing",

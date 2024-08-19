@@ -9,7 +9,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 const totalgames = 5
 
-const Slider = () => {
+var Slider = () => {
     useEffect(() => {
         // Animation for elements with the class 'swipe-fade-up'
         gsap.fromTo('.swipe-fade-up', {
@@ -106,6 +106,8 @@ const Slider = () => {
                 ))}
 
             </div>
+            
+            
             <div className="slides-container">
 
                 {
