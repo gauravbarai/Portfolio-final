@@ -1,0 +1,29 @@
+
+{
+                "title": "Mi Dancer / Flexpole",
+                "text1": "Rythm - Casual | Mobile | GameEon Studios - Client Project",
+                "text2": "",
+                "description": "<ul><li>Worked from the start to finalize game design, including mechanics, controls, and features.</li><li>Designed player progression and feedback loops.</li><li>Created the scoring and shop systems, including items like accessories.</li><li>Defined avatar customization features based on client needs.</li><li>Designed basic monetization for the game's first version.</li><li>Successfully coordinated with dev and art teams to ensure and track production progress.</li><li><em><b>Note:</b> The game is currently under development.</em></li></ul><br><br>",
+                "role": "Game Designer",
+                "bg": "https://img.itch.zone/aW1nLzcxNjc1NDQucG5n/original/w4N%2Bas.png",
+                "gddLink": "csbg.jpg",
+                "websiteLink": "https://play.google.com/store/apps/dev?id=6810998305006272415",
+                "downloadLink": "https://play.google.com/store/apps/dev?id=6810998305006272415",
+                "images": [
+                    "https://www.youtube.com/embed/oyuuM3_0YAI?si=3NJXQW2YD7HdBL_o"                    
+                ]
+}
+
+/**
+.pagination-square3{
+    background: url(/flexpole/icon.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-position: center;
+  }
+
+  **/
+
+
+            

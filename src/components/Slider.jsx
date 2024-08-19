@@ -7,6 +7,8 @@ import { gsap } from 'gsap';
 import ScrollTrigger from 'gsap/ScrollTrigger';
 gsap.registerPlugin(ScrollTrigger);
 
+const totalgames = 5
+
 const Slider = () => {
     useEffect(() => {
         // Animation for elements with the class 'swipe-fade-up'
@@ -59,7 +61,7 @@ const Slider = () => {
 
     const outerSlide = sliderContent[0].games[activeSlideIndex];
     let innerSlideData = [];
-    if (activeSlideIndex === 4) {
+    if (activeSlideIndex === totalgames) {
         innerSlideData = outerSlide.data;
     } else {
         innerSlideData = outerSlide.images[activeInnerSlideIndex];
@@ -80,7 +82,7 @@ const Slider = () => {
             <div className="pagination">
                 {sliderContent[0].games.map((_, index) => (
                     <div key={index}>
-                        {index === 4 ? (
+                        {index === totalgames ? (
                             <div className='slideindex'>
                                 <div className='line'></div>
                                 <div
@@ -107,7 +109,7 @@ const Slider = () => {
             <div className="slides-container">
 
                 {
-                    activeSlideIndex == 4
+                    activeSlideIndex == totalgames
 
                         ? <div className="slide">
                             <div className="docsDiv">
@@ -170,9 +172,9 @@ const Slider = () => {
                                     </p>
                                     
                                     <p dangerouslySetInnerHTML={{ __html: outerSlide.description }}></p>
-                                    <a href={outerSlide.gddLink}><button>GDD(s)</button></a>
-                                    <a href={outerSlide.websiteLink}> <button>Website</button></a>
-                                    <a href={outerSlide.downloadLink}> <button>Download</button></a>
+                                    <a href={outerSlide.gddLink} target="_blank"><button>GDD(s)</button></a>
+                                    <a href={outerSlide.websiteLink} target="_blank"> <button>Website</button></a>
+                                    <a href={outerSlide.downloadLink} target="_blank"> <button>Download</button></a>
                                 </div>
                             </div>
                         </div>

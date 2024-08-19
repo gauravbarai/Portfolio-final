@@ -2,11 +2,7 @@ import React, { useState, useEffect } from 'react';
 import image from "../assets/Image.png";
 import "./header.css";
 
-let blinking_text = document.getElementById('blink_effect');
-        setInterval(function() {
-            blinking_text.style.display = (blinking_text.style.display == 'none' ? '' : 'none')
-        }, 500);
- 
+
 
 const Header = () => {
     const [typedText, setTypedText] = useState('');
@@ -20,17 +16,22 @@ const Header = () => {
             });
         }
     };
+    var texttyped=0
     useEffect(() => {
         const typeText = (text, index) => {
+            
             if (index <= text.length) {
                 setTypedText(text.substring(0, index));
                 setTimeout(() => typeText(text, index + 1), 75); // Adjust typing speed here
+                
             }
+            
         };
 
-        typeText(headerText, 0);
-    }, []);
-
+        typeText(headerText, 0); 
+        
+    } , []);
+   
     const handleDownloadClick = () => {
         const fileUrl = 'https://drive.google.com/file/d/1zXQh9X5MrdHf3VZr5ieniCzXquN-8OHQ/view?usp=sharing';
         const anchor = document.createElement('a');
@@ -45,7 +46,7 @@ const Header = () => {
         <div className='header'>
             <h1>GAURAV BARAI</h1>
             <div className="content">
-                <h2>{typedText}<span id="blink_effect">_</span></h2>
+                <h2>{typedText}<span>_</span></h2>
                 
                 <p className="fade-swipe-animation" >
                     <font size="4">Hey there! I'm Gaurav, a game designer immersed in PC and console gaming. My skills are ever-evolving, drawing inspiration from psychology, philosophy, science, and the mysteries of extraterrestrial realms. Always at the forefront of industry trends, my ultimate goal is to create my own gaming studio.</font>

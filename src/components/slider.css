@@ -1,4 +1,7 @@
 /* Slider.css */
+  a{
+  color: #fff;
+}
 
 .slider {
     display: flex;
@@ -50,6 +53,7 @@
     align-items: center;
     color: #fff;
     background-color: #000000;
+    background-size: contain !important;
     min-height: 370px;
     border-radius: 100px 0px 100px 0px;
     width: 100%;
@@ -147,13 +151,16 @@
     background-origin: border-box;
     background-position: center;
   }
+  
+  
   .pagination-square2{
-    background: url(https://img.itch.zone/aW1nLzcxNjc1MDYucG5n/32x32%23/yF7uMw.png);
+    background: url(/public/stylediaries/stydia.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-origin: border-box;
     background-position: center;
   }
+  
   .pagination-square3{
     background: url(/src/assets/HC.png);
     background-size: cover;
@@ -162,6 +169,13 @@
     background-position: center;
   }
   .pagination-square4{
+    background: url(https://img.itch.zone/aW1nLzcxNjc1MDYucG5n/32x32%23/yF7uMw.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-position: center;
+  }
+  .pagination-square5{
     background: url(/src/assets/doc.jpg);
     background-size: cover;
     background-repeat: no-repeat;
